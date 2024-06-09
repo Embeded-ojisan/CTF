@@ -4,6 +4,7 @@
 	.align	2
 	.global	func1
 	.type	func1, %function
+
 func1:
 	sub	sp, sp, #16
 	str	w0, [sp, 12]
