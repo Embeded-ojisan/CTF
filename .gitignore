@@ -2,3 +2,6 @@
 picoCTF/ARMssembly_0/arm64-rootfs
 picoCTF/ARMssembly_0/chall
 picoCTF/ARMssembly_0/chall.o
+
+picoCTF/ARMssembly_1/chall_1
+picoCTF/ARMssembly_0/chall_1.o
